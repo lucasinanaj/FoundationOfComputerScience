@@ -2,7 +2,7 @@
 
 
 **Description:**
-This GitHub repository showcases the work undertaken for the Foundation of Computer Science examination, the first exam for the Master's Degree in Data Science. The project focuses on the Dogs Adoptions dataset, comprising three key files: dogs.csv (abbreviated as dogs), dogTravel.csv (abbreviated as travels), and NST-EST2021-POP.csv.
+This GitHub repository showcases the work undertaken for the Foundation of Computer Science examination, the first exam for the Master's Degree in Data Science. The project focuses on the Dogs Adoptions dataset, comprising three key files: dogs.csv, dogTravel.csv, and NST-EST2021-POP.csv, contained in the 'files' folder.
 
 **Project Tasks:**
 
